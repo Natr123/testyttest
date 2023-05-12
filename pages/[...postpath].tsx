@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://health-zone-ce6d76.ingress-comporellon.ewp.live/`
+					`https://www.google.com/`
 				}`,
 			},
 		};
